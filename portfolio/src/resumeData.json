@@ -1,0 +1,102 @@
+{
+	"main": {
+		"name": "Blake Wright",
+		"occupation": "Full Stack Developer",
+		"description": " who has a background in transportation/logistics and sales. I love to think logically and I am always looking for creative ways to solve problems. I am constantly learning new things and trying to improve my ever-growing skill-set. I can't wait to get together and create something amazing. Contact me below!",
+		"image": "profilepic.jpg",
+		"bio": "I am a full stack web developer",
+		"contactmessage": "Get in touch with me!",
+		"email": "wright.blake.t@gmail.com",
+		"phone": "913-284-1670",
+		"address": {
+			"city": "Kansas City"
+		},
+		"website": "https://blakewright.net",
+		"resumedownload": "./public/documents/Blake_Wright_Resume_PDF.pdf",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/blake.wright.58/",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/blake-wright-6409b818a/",
+				"className": "fa fa-linkedin"
+			},
+
+			{
+				"name": "github",
+				"url": "https://github.com/BTDubbzzz",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Here are some of my top skills",
+		"skills": [
+			{
+				"name": "Git",
+				"level": "85%"
+			},
+			{
+				"name": "JavaScript",
+				"level": "90%"
+			},
+			{
+				"name": "ReactJs",
+				"level": "65%"
+			},
+			{
+				"name": "CSS",
+				"level": "85%"
+			},
+			{
+				"name": "HTML5",
+				"level": "80%"
+			},
+			{
+				"name": "MySQL",
+				"level": "70%"
+			},
+			{
+				"name": "MongoDB",
+				"level": "60%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Athletics Admin (myTeam)",
+				"category": "myTeam is a permissions based athletic admin portal. Contact me for demo login!",
+				"image": "athletic_admin_screenshot.jpg",
+				"url": "https://abc-myteam.herokuapp.com/"
+			},
+			{
+				"title": "Jeopardy Game",
+				"category": "A fully functioning single-player Jeopardy game using the Jeopardy API",
+				"image": "jeopardy_screenshot.jpg",
+				"url": "https://btdubbzzz.github.io/jeopardy-game/"
+			},
+			{
+				"title": "Tech Blog",
+				"category": "Blog-type website using MVC paradigm, conditional rendering, and user authentication",
+				"image": "techblog_screenshot.jpg",
+				"url": "https://btw-tech-blog.herokuapp.com/"
+			},
+			{
+				"title": "React Demo",
+				"category": "My first deployed React app. A practice in props, state, and JSX",
+				"image": "react_screenshot.jpg",
+				"url": "https://btdubbzzz.github.io/react-counter-app/"
+			},
+			{
+				"title": "Weather Dashboard",
+				"category": "An app to get weather for user-searched cities. Using REST API to fetch data",
+				"image": "weather_screenshot.jpg",
+				"url": "https://btdubbzzz.github.io/Weather-Dashboard/"
+			}
+		]
+	}
+}
