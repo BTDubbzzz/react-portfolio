@@ -8,7 +8,7 @@ class Project extends Component {
 		return (
 			<div key={title} className="columns portfolio-item">
 				<div className="item-wrap">
-					<a href={url} title={title}>
+					<a href={url} target="_blank" rel="noopener noreferrer" title={title}>
 						<img alt={title} src={projectImage} />
 						<div className="overlay">
 							<div className="portfolio-item-meta">

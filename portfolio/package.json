@@ -16,6 +16,7 @@
 	},
 	"homepage": "https://btdubbzzz.github.io/react-portfolio",
 	"scripts": {
+		"build-localhost": "PUBLIC_URL=/ react-scripts build",
 		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build",
 		"start": "react-scripts start",

@@ -1,7 +1,8 @@
 import React from 'react';
+import myResume from '../assets/documents/Blake_Wright_Resume_PDF.pdf';
 
 function About(props) {
-	const { name, image, bio, phone, email, resumedownload } = props.data;
+	const { name, image, bio, phone, email } = props.data;
 	const profilepic = 'images/' + image;
 
 	return (
@@ -32,11 +33,7 @@ function About(props) {
 						</div>
 						<div className="columns download">
 							<p>
-								<a
-									href="./public/documents/Blake_Wright_Resume_PDF.pdf"
-									target="blank"
-									className="button"
-								>
+								<a href={myResume} target="blank" className="button">
 									<i className="fa fa-download"></i>Download Resume
 								</a>
 							</p>
