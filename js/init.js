@@ -108,7 +108,7 @@ jQuery(document).ready(function ($) {
 	});
 
 	$(document).on('click', '.popup-modal-dismiss', function (e) {
-		e.preventDefault();
+		// e.preventDefault();
 		$.magnificPopup.close();
 	});
 
