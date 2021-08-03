@@ -21,7 +21,7 @@ jQuery(document).ready(function ($) {
 ------------------------------------------------------ */
 
 	$('.smoothscroll').on('click', function (e) {
-		// e.preventDefault();
+		e.preventDefault();
 
 		var target = this.hash,
 			$target = $(target);
@@ -108,7 +108,7 @@ jQuery(document).ready(function ($) {
 	});
 
 	$(document).on('click', '.popup-modal-dismiss', function (e) {
-		// e.preventDefault();
+		e.preventDefault();
 		$.magnificPopup.close();
 	});
 
