@@ -89,11 +89,39 @@
 				"codeurl": "https://github.com/BTDubbzzz/tech_blog"
 			},
 			{
+				"title": "Workout Tracker",
+				"category": "A Full Stack Application that allows users to track their fitness accomplishments through the use of a mongo Database, and see results over time with the graph dashboard",
+				"image": "fitness_tracker_screenshot.jpg",
+				"url": "https://btw-fitness-tracker.herokuapp.com/stats",
+				"codeurl": "https://github.com/BTDubbzzz/workout-tracker"
+			},
+			{
 				"title": "React Demo",
 				"category": "My first deployed React app. A practice in props, state, and JSX",
 				"image": "react_screenshot.jpg",
 				"url": "https://btdubbzzz.github.io/react-counter-app/",
 				"codeurl": "https://github.com/BTDubbzzz/react-counter-app"
+			},
+			{
+				"title": "Employee Management CLI",
+				"category": "This is a CLI app with a back end that allows users to perform any CRUD operation on their database of employees",
+				"image": "employee_management_screenshot.jpg",
+				"url": "https://github.com/BTDubbzzz/employee-management",
+				"codeurl": "https://github.com/BTDubbzzz/employee-management"
+			},
+			{
+				"title": "Note Taker",
+				"category": "A Full Stack application to take notes which uses Express and MySQL as a back end",
+				"image": "note_taker_screenshot.jpg",
+				"url": "https://btw-note-taker.herokuapp.com/",
+				"codeurl": "https://github.com/BTDubbzzz/note-taker"
+			},
+			{
+				"title": "E-Commerce Back End",
+				"category": "This is a back end only application which uses Sequelize to define the relationships between items in an E-commerce shop. You can use this with insomnia or a similar service to reach the API endpoints and get curated data",
+				"image": "e_commerce_screenshot.jpg",
+				"url": "https://github.com/BTDubbzzz/e-commerce-back-end",
+				"codeurl": "https://github.com/BTDubbzzz/e-commerce-back-end"
 			},
 			{
 				"title": "Weather Dashboard",
