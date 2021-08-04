@@ -7,7 +7,7 @@ function Portfolio(props) {
 	});
 
 	return (
-		<section id="portfolio">
+		<section id="projects">
 			<div className="row">
 				<div className="twelve columns collapsed">
 					<h1>Check Out Some of My Projects.</h1>

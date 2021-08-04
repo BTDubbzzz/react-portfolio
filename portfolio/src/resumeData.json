@@ -37,23 +37,23 @@
 		"skills": [
 			{
 				"name": "Git",
-				"level": "85%"
+				"level": "80%"
 			},
 			{
 				"name": "JavaScript",
-				"level": "90%"
-			},
-			{
-				"name": "ReactJs",
-				"level": "65%"
-			},
-			{
-				"name": "CSS",
 				"level": "85%"
 			},
 			{
+				"name": "ReactJs",
+				"level": "60%"
+			},
+			{
+				"name": "CSS",
+				"level": "75%"
+			},
+			{
 				"name": "HTML5",
-				"level": "80%"
+				"level": "90%"
 			},
 			{
 				"name": "MySQL",
@@ -61,7 +61,7 @@
 			},
 			{
 				"name": "MongoDB",
-				"level": "60%"
+				"level": "55%"
 			}
 		]
 	},
@@ -69,7 +69,7 @@
 		"projects": [
 			{
 				"title": "Athletics Admin (myTeam)",
-				"category": "myTeam is a permissions based athletic admin portal. Contact me for demo login!",
+				"category": "myTeam is a permissions based, full stack athletic admin portal. Contact me for demo login!",
 				"image": "athletic_admin_screenshot.jpg",
 				"url": "https://abc-myteam.herokuapp.com/",
 				"codeurl": "https://github.com/BTDubbzzz/athletics-admin"
@@ -83,7 +83,7 @@
 			},
 			{
 				"title": "Tech Blog",
-				"category": "Blog-type website using MVC paradigm, conditional rendering, and user authentication",
+				"category": "Blog-type full stack website using MVC paradigm, conditional rendering, and user authentication",
 				"image": "techblog_screenshot.jpg",
 				"url": "https://btw-tech-blog.herokuapp.com/",
 				"codeurl": "https://github.com/BTDubbzzz/tech_blog"
@@ -97,7 +97,7 @@
 			},
 			{
 				"title": "React Demo",
-				"category": "My first deployed React app. A practice in props, state, and JSX",
+				"category": "My first deployed React app. An exercise in props, state, and JSX",
 				"image": "react_screenshot.jpg",
 				"url": "https://btdubbzzz.github.io/react-counter-app/",
 				"codeurl": "https://github.com/BTDubbzzz/react-counter-app"
@@ -125,10 +125,17 @@
 			},
 			{
 				"title": "Weather Dashboard",
-				"category": "An app to get weather for user-searched cities. Using REST API to fetch data",
+				"category": "An app to check weather forecast for user-searched cities. Using REST API to fetch data",
 				"image": "weather_screenshot.jpg",
 				"url": "https://btdubbzzz.github.io/Weather-Dashboard/",
 				"codeurl": "https://github.com/BTDubbzzz/Weather-Dashboard"
+			},
+			{
+				"title": "React Portfolio",
+				"category": "My live professional portfolio on the web using ReactJS",
+				"image": "portfolio_screenshot.jpg",
+				"url": "https://blakewright.net",
+				"codeurl": "https://github.com/BTDubbzzz/react-portfolio"
 			}
 		]
 	}

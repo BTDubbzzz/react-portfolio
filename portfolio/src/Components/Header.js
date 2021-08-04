@@ -27,12 +27,12 @@ function Header(props) {
 						</a>
 					</li>
 					<li>
-						<a className="smoothscroll" href="#resume">
+						<a className="smoothscroll" href="#skills">
 							Skills
 						</a>
 					</li>
 					<li>
-						<a className="smoothscroll" href="#portfolio">
+						<a className="smoothscroll" href="#projects">
 							Projects
 						</a>
 					</li>

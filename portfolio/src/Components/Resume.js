@@ -13,7 +13,7 @@ function Resume(props) {
 	});
 
 	return (
-		<section id="resume">
+		<section id="skills">
 			<div className="row skill">
 				<div className="three columns header-col">
 					<h1>
