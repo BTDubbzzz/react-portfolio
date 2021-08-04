@@ -4,7 +4,7 @@
 		"occupation": "Full Stack Developer",
 		"description": " who has a background in transportation/logistics and sales. I love to think logically and I am always looking for creative ways to solve problems. I am constantly learning new things and trying to improve my ever-growing skill-set. I can't wait to get together and create something amazing. Contact me below!",
 		"image": "profilepic.jpg",
-		"bio": "In my free time I am a casual gamer and I enjoy a very wide variety of games, from shooters to card games. If the weather is nicer than 50 degrees you can count on finding me on the slow-pitch softball field with one of several teams I coach and play for. I am also a proud husband and my wife and I are in love with our miniature golden doodle, Forrest.",
+		"bio": "In my free time I am a casual gamer and I enjoy a very wide variety of games, from shooters to card games. If the weather is nicer than 50 degrees you can find me on the slow-pitch softball field with one of several teams I coach and play for. I am also a proud husband and my wife and I are in love with our miniature golden doodle, Forrest.",
 		"contactmessage": "Get in touch with me!",
 		"email": "wright.blake.t@gmail.com",
 		"phone": "913-284-1670",
@@ -33,7 +33,7 @@
 		]
 	},
 	"resume": {
-		"skillmessage": "Here are some of my top skills",
+		"skillmessage": "Some of the technologies I have experience with",
 		"skills": [
 			{
 				"name": "Git",
@@ -71,31 +71,36 @@
 				"title": "Athletics Admin (myTeam)",
 				"category": "myTeam is a permissions based athletic admin portal. Contact me for demo login!",
 				"image": "athletic_admin_screenshot.jpg",
-				"url": "https://abc-myteam.herokuapp.com/"
+				"url": "https://abc-myteam.herokuapp.com/",
+				"codeurl": "https://github.com/BTDubbzzz/athletics-admin"
 			},
 			{
 				"title": "Jeopardy Game",
 				"category": "A fully functioning single-player Jeopardy game using the Jeopardy API",
 				"image": "jeopardy_screenshot.jpg",
-				"url": "https://btdubbzzz.github.io/jeopardy-game/"
+				"url": "https://btdubbzzz.github.io/jeopardy-game/",
+				"codeurl": "https://github.com/BTDubbzzz/jeopardy-game"
 			},
 			{
 				"title": "Tech Blog",
 				"category": "Blog-type website using MVC paradigm, conditional rendering, and user authentication",
 				"image": "techblog_screenshot.jpg",
-				"url": "https://btw-tech-blog.herokuapp.com/"
+				"url": "https://btw-tech-blog.herokuapp.com/",
+				"codeurl": "https://github.com/BTDubbzzz/tech_blog"
 			},
 			{
 				"title": "React Demo",
 				"category": "My first deployed React app. A practice in props, state, and JSX",
 				"image": "react_screenshot.jpg",
-				"url": "https://btdubbzzz.github.io/react-counter-app/"
+				"url": "https://btdubbzzz.github.io/react-counter-app/",
+				"codeurl": "https://github.com/BTDubbzzz/react-counter-app"
 			},
 			{
 				"title": "Weather Dashboard",
 				"category": "An app to get weather for user-searched cities. Using REST API to fetch data",
 				"image": "weather_screenshot.jpg",
-				"url": "https://btdubbzzz.github.io/Weather-Dashboard/"
+				"url": "https://btdubbzzz.github.io/Weather-Dashboard/",
+				"codeurl": "https://github.com/BTDubbzzz/Weather-Dashboard"
 			}
 		]
 	}
