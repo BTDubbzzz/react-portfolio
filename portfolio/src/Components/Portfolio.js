@@ -3,7 +3,7 @@ import Project from './Project';
 
 function Portfolio(props) {
 	const projects = props.data.projects.map(function (project) {
-		return <Project data={project} />;
+		return <Project key={project.title} data={project} />;
 	});
 
 	return (

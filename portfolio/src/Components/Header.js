@@ -1,5 +1,6 @@
 import React from 'react';
 import Network from './Network';
+import Navigation from './Navigation';
 
 function Header(props) {
 	const { name, occupation, description } = props.data;
@@ -7,42 +8,7 @@ function Header(props) {
 
 	return (
 		<header id="home">
-			<nav id="nav-wrap">
-				<a className="mobile-btn" href="#nav-wrap" title="Show navigation">
-					Show navigation
-				</a>
-				<a className="mobile-btn" href="#home" title="Hide navigation">
-					Hide navigation
-				</a>
-
-				<ul id="nav" className="nav">
-					<li className="current">
-						<a className="smoothscroll" href="#home">
-							Home
-						</a>
-					</li>
-					<li>
-						<a className="smoothscroll" href="#about">
-							About
-						</a>
-					</li>
-					<li>
-						<a className="smoothscroll" href="#skills">
-							Skills
-						</a>
-					</li>
-					<li>
-						<a className="smoothscroll" href="#projects">
-							Projects
-						</a>
-					</li>
-					<li>
-						<a className="smoothscroll" href="#contact">
-							Contact
-						</a>
-					</li>
-				</ul>
-			</nav>
+			<Navigation></Navigation>
 
 			<div className="row banner">
 				<div className="banner-text">
