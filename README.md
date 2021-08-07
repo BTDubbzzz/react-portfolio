@@ -9,4 +9,4 @@ You can see the website at https://btdubbzzz.github.io/react-portfolio/ or https
 
 ## Screenshot
 
-![Alt Text](./portfolio/public/images/portfolio/portfolio_screenshot.jpg)
+![Portfolio Screenshot](./portfolio/public/images/portfolio/portfolio_screenshot.jpg)
