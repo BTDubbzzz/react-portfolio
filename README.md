@@ -1,5 +1,4 @@
-# react-portfolio
-# Professional Portfolio
+# Professional React Portfolio
 
 This is my professional portfolio website. Check it out to see my most recent projects or contact me about anything!
 
