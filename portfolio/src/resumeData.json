@@ -2,9 +2,9 @@
 	"main": {
 		"name": "Blake Wright",
 		"occupation": "Full Stack Developer",
-		"description": " who has a background in transportation/logistics and sales. I love to think logically and I am always looking for creative ways to solve problems. I am constantly learning new things and trying to improve my ever-growing skill-set. I can't wait to get together and create something amazing. Contact me below!",
+		"description": " who has a background in transportation/logistics and sales. I love to think logically and am always looking for creative ways to solve problems. I'm constantly learning new things and trying to improve my ever-growing skill-set. I can't wait to get together and create something amazing. Contact me below!",
 		"image": "profilepic.jpg",
-		"bio": "In my free time I am a casual gamer and I enjoy a very wide variety of games, from shooters to card games. If the weather is nicer than 50 degrees you can find me on the slow-pitch softball field with one of several teams I coach and play for. I am also a proud husband and my wife and I are in love with our miniature golden doodle, Forrest.",
+		"bio": "In my free time I'm a casual gamer and I enjoy a very wide variety of games, from FPS to card games. If the weather is nicer than 50 degrees you can find me on the slow-pitch softball field with one of several teams I coach and play for. I am also a proud husband and my wife and I are in love with our miniature golden-doodle, Forrest.",
 		"contactmessage": "Send me any questions or comments!",
 		"email": "wright.blake.t@gmail.com",
 		"phone": "913-284-1670",
@@ -136,6 +136,13 @@
 				"image": "portfolio_screenshot.jpg",
 				"url": "https://blakewright.net",
 				"codeurl": "https://github.com/BTDubbzzz/react-portfolio"
+			},
+			{
+				"title": "Book Search",
+				"category": "A Full Stack React Application re-factored from REST API into a graphQL API with ApolloServer",
+				"image": "book_search_screenshot.jpg",
+				"url": "https://btw-google-book-search.herokuapp.com/",
+				"codeurl": "https://github.com/BTDubbzzz/book-search-engine"
 			}
 		]
 	}
